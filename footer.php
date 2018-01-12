@@ -1,7 +1,9 @@
 <div id="footer">
 
 <div class="container">
-<p class="text-muted credit">Copyright &copy; <?php print '2007-'.date("Y").'' ?> FAWONG. All Rights Reserved.</p>
+<p class="text-muted credit">
+Copyright &copy; <?php print '2007-'.date("Y").'' ?> FAWONG. All Rights Reserved. Source code located at <a href="https://github.com/fawong/PluginsManager-website" target="_blank">GitHub<a>.
+</p>
 </div>
 
 </div>
