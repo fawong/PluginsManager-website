@@ -6,7 +6,7 @@ $favicon .= '<link rel="shortcut icon" href="favicon.ico" type="image/x-ico" />'
 
 $title = 'FAWONG Minecraft';
 
-include_once("../header.php");
+include_once("header.php");
 ?>
 
 <!-- Begin page content -->
@@ -149,4 +149,4 @@ include_once("../header.php");
 
 </div><!--/.wrap -->
 
-<?php include_once("../footer.php"); ?>
+<?php include_once("footer.php"); ?>
