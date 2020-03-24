@@ -4,7 +4,9 @@ $extra_headers = '<meta name="keywords" content="Minecraft, mc, MC, MineCraft, m
 $favicon = '<link rel="icon" type="image/ico" href="favicon.ico" />' . "\n";
 $favicon .= '<link rel="shortcut icon" href="favicon.ico" type="image/x-ico" />';
 
-$title = 'FAWONG Minecraft';
+$title = 'Minecraft';
+$site = 'Minecraft';
+$domain = 'waf.hk';
 
 include_once("common/header.php");
 ?>
